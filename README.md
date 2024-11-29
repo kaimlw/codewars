@@ -8,6 +8,7 @@ Mostly written in Golang.
 | Kata(s) | Subject | CW Link |
 |--|--|--|
 | [**Tic-Tac-Toe Checker**](5kyu/ticTacToeChecker)| `algorithm`, `array` | [link](https://www.codewars.com/kata/525caa5c1bf619d28c000335/) |
+| [**RGB To Hex**](5kyu/rgbToHex)| `algorithm` | [link](https://www.codewars.com/kata/513e08acc600c94f01000001/) |
 
 ---
 
@@ -16,7 +17,7 @@ Mostly written in Golang.
 
 | Kata(s) | Subject | CW Link |
 |--|--|--|
-| [**Tic-Tac-Toe Checker**]()| 
+
 
 ---
 
@@ -25,7 +26,7 @@ Mostly written in Golang.
 
 | Kata(s) | Subject | CW Link |
 |--|--|--|
-| [**Tic-Tac-Toe Checker**]()| 
+
 
 ---
 
@@ -34,6 +35,6 @@ Mostly written in Golang.
 
 | Kata(s) | Subject | CW Link |
 |--|--|--|
-| [**Tic-Tac-Toe Checker**]()| 
+
 
 ---
