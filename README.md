@@ -37,7 +37,6 @@ Mostly written in Golang.
 | Kata(s) | Subject | CW Link |
 |--|--|--|
 | [**Opposite Number**](8Kyu/disemvowelTrolls)| `fundamental` | [link](https://www.codewars.com/kata/56dec885c54a926dcd001095) |
-
 | [**Count of Positives and Sum of Negatives**](8Kyu/countPositiveNegativeNum)| `fundamental`, `arrays`, `lists` | [link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) |
 
 ---
