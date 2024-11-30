@@ -7,8 +7,8 @@ Mostly written in Golang.
 
 | Kata(s) | Subject | CW Link |
 |--|--|--|
-| [**Tic-Tac-Toe Checker**](5 kyu/ticTacToeChecker)| `algorithm`, `array` | [link](https://www.codewars.com/kata/525caa5c1bf619d28c000335/) |
-| [**RGB To Hex**](5 kyu/rgbToHex)| `algorithm` | [link](https://www.codewars.com/kata/513e08acc600c94f01000001/) |
+| [**Tic-Tac-Toe Checker**](<5 kyu/ticTacToeChecker>)| `algorithm`, `array` | [link](https://www.codewars.com/kata/525caa5c1bf619d28c000335/) |
+| [**RGB To Hex**](<5 kyu/rgbToHex>)| `algorithm` | [link](https://www.codewars.com/kata/513e08acc600c94f01000001/) |
 
 ---
 
@@ -17,7 +17,7 @@ Mostly written in Golang.
 
 | Kata(s) | Subject | CW Link |
 |--|--|--|
-| [**Find Odd Int**](6 kyu/findOddInt)| `fundamental` | [link](https://www.codewars.com/kata/54da5a58ea159efa38000836) |
+| [**Find Odd Int**](<6 kyu/findOddInt>)| `fundamental` | [link](https://www.codewars.com/kata/54da5a58ea159efa38000836) |
 
 ---
 
@@ -26,7 +26,7 @@ Mostly written in Golang.
 
 | Kata(s) | Subject | CW Link |
 |--|--|--|
-| [**Disemvowel Trolls**](7 kyu/disemvowelTrolls)| `fundamental`, `regex`, `strings` | [link](https://www.codewars.com/kata/52fba66badcd10859f00097e) |
+| [**Disemvowel Trolls**](<7 kyu/disemvowelTrolls>)| `fundamental`, `regex`, `strings` | [link](https://www.codewars.com/kata/52fba66badcd10859f00097e) |
 
 
 ---
@@ -36,6 +36,6 @@ Mostly written in Golang.
 
 | Kata(s) | Subject | CW Link |
 |--|--|--|
-
+| [**Opposite Number**](<8 kyu/disemvowelTrolls/opposite.go>)| `fundamental` | [link](https://www.codewars.com/kata/56dec885c54a926dcd001095) |
 
 ---
