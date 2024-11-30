@@ -26,6 +26,7 @@ Mostly written in Golang.
 
 | Kata(s) | Subject | CW Link |
 |--|--|--|
+| [**Disemvowel Trolls**](7kyu/disemvowelTrolls)| `fundamental`, `regex`, `strings` | [link](https://www.codewars.com/kata/52fba66badcd10859f00097e) |
 
 
 ---
